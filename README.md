@@ -38,3 +38,7 @@ That link currently points at a private gallery page. It has to be shared public
 
 Any static host. For GitHub Pages the repository must be public, and Pages should serve from the repository
 root on the default branch.
+
+## License
+
+Original project source code is licensed under the [MIT License](LICENSE). The separate [LICENSE-SCOPE.md](LICENSE-SCOPE.md) clarifies exclusions for personal or third-party materials.
